@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoselineJustice
 - 👀 I’m interested in Blockchain Programming!
-- 🌱 I’m currently learning NITDA Blockchain.
-- 💞️ I’m looking to collaborate on IT EXPERTS.
+- 🌱 I'm a Certified NITDA/BSV Blockchain Professional.
+- 💞️ I’m looking to collaborate with BLOCKCHAIN EXPERTS.
 - 📫 You can reach me on +2348030959578
 
 <!---
